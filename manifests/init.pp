@@ -1,3 +1,8 @@
+# Installs Flip4Mac into /Applications
+#
+# Usage:
+#
+#     include flip4mac
 class flip4mac (
   $version = '3.3.1'
 ) {
